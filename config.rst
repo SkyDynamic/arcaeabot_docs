@@ -1,6 +1,8 @@
 配置/config
 ======
 
+**注意** 目前Bot使用的API已有ArcaeaUnlimitedAPI更名为UnofficialArcaeaAPI, 且关闭API申请. 如需使用可以添加QQ: 2514150766
+
 Nonebot_Plugin_ArcaeaBot的配置文件通常位于 ``bot.py根目录/data/arcaea`` 中,这里通常会有一个文件夹与四个文件，它们分别为:
 
 +-----------------+-----------------+
